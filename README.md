@@ -57,8 +57,8 @@
   
   ## 🌱 I’m currently learning
 
-* Flutter
-* Dart
+* Flutter & Dart
+* Flask
 
 
 # ⚡ Fun fact: Everyday is Learning and Still you are Learning...
